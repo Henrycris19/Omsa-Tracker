@@ -191,19 +191,6 @@ Para información técnica detallada, arquitectura del sistema, configuración a
 
 **[📖 Documentación Técnica Completa](DOCUMENTACION_TECNICA.md)**
 
----
-
-## 🤝 Contribuciones
-
-Este proyecto es desarrollado como parte del Proyecto Integrador de la Universidad Tecnológica de Santiago (UTESA). 
-
-### Contacto del Equipo
-- **Henry Luciano:**
-- **Victor Contreras:**
-- **Gerald Vizcaíno:** 
-
----
-
 ## 📄 Licencia
 
 Este proyecto es desarrollado como parte del Proyecto Integrador de la Universidad Iberoamericana (UNIBE). Todos los derechos reservados.
