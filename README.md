@@ -198,9 +198,9 @@ Para información técnica detallada, arquitectura del sistema, configuración a
 Este proyecto es desarrollado como parte del Proyecto Integrador de la Universidad Tecnológica de Santiago (UTESA). 
 
 ### Contacto del Equipo
-- **Henry Luciano:** henry.luciano@utesa.edu.do
-- **Victor Contreras:** victor.contreras@utesa.edu.do
-- **Gerald Vizcaíno:** gerald.vizcaino@utesa.edu.do
+- **Henry Luciano:**
+- **Victor Contreras:**
+- **Gerald Vizcaíno:** 
 
 ---
 
