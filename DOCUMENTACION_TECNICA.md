@@ -395,5 +395,4 @@ Este proyecto es desarrollado como parte del Proyecto Integrador de la Universid
 
 ---
 
-*Documentación generada el 12 de agosto de 2025*  
 *Versión del proyecto: 1.0.0*
